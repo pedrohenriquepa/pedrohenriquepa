@@ -83,24 +83,24 @@ Meu nome é Pedro Henrique Pereira Alves, tenho 20 anos e sou natural de Minas G
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="FIREBASE"
+    title="FIREBASE" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" 
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="ANDROID"
+    title="ANDROID" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" 
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="MSQL"
+    title="MSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" 
