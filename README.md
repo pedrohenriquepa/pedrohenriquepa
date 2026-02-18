@@ -1,120 +1,63 @@
-## # 👨‍💻 Pedro Alves 
+# 👨‍💻 Olá, eu sou Pedro Alves
 
-**`Desenvolvedor FullStack`**
+### 🚀 Desenvolvedor Full-Stack
 
-Meu nome é Pedro Henrique Pereira Alves, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFNMG, integrado ao curso técnico em Informática. Atualmente, curso Sistemas de Informação na Unimontes e atuo como desenvolvedor, sempre buscando aprender, evoluir e aprimorar minhas habilidades na área de tecnologia.
-<p align="left">
-   <a href="https://github.com/pedrohenriquepa?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/pedrohenriquepa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-</a>
-<a href="https://github.com/pedrohenriquepa?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/pedrohenriquepa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
-</p>
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Minha abordagem foca em escrever código limpo, eficiente e escalável, independentemente da linguagem ou framework.
+
+Atualmente cursando **Sistemas de Informação**, combino minha base acadêmica com experiência prática no desenvolvimento de sistemas reais (ERP/CRM). Tenho facilidade em transitar entre **Back-end e Front-end**, sempre buscando a melhor ferramenta para cada desafio.
+
+🔹 **Foco:** Desenvolvimento Web, Arquitetura de Software e Automação.
+🔹 **Objetivo:** Criar soluções que geram valor real e aprimorar constantemente minhas habilidades técnicas.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Arsenal Tecnológico
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+Tenho experiência prática e projetos desenvolvidos com diversas tecnologias modernas:
 
-<img 
-    align="left" 
-    alt="FIREBASE"
-    title="FIREBASE" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="ANDROID"
-    title="ANDROID" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="MSQL"
-    title="MSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
-<br/>
-<br/>
+  &nbsp;&nbsp;&nbsp;
 
+  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
 
+---
+
+### 📊 Minha Atividade no GitHub
+
+<div align="center">
+  <a href="https://github.com/pedrohenriquepa">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquepa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquepa&layout=compact&langs_count=6&theme=dracula&hide_title=true"/>
+  </a>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+Estou sempre aberto a novas oportunidades e conexões.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrohenriquepa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:pedro.p.alves7@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
