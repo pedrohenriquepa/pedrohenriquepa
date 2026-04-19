@@ -13,7 +13,7 @@
 <br>
 
 ### 💫 Sobre mim
-[cite_start]Sou Desenvolvedor Full-Stack com experiência no desenvolvimento de sistemas web (CRM e ERP) e integração de APIs REST[cite: 6, 12, 15]. [cite_start]Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e foco na criação de soluções seguras e escaláveis[cite: 8, 30].
+Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web (CRM e ERP) e integração de APIs REST. Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e foco na criação de soluções seguras, escaláveis e eficientes.
 
 ### 📂 Portfólio
 Confira meus principais projetos e demonstrações técnicas:
@@ -57,16 +57,6 @@ Confira meus principais projetos e demonstrações técnicas:
   <img src="https://img.shields.io/badge/MySQL-80%25-93E1FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-75%25-93E1FF?style=for-the-badge"/>
 </p>
-
-<br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" align="right">
-
-### ✨ Atualmente
-
-* [cite_start]Desenvolvimento e manutenção de sistemas web internos (CRM e ERP)[cite: 12].
-* [cite_start]Criação de dashboards interativos e relatórios personalizados para suporte à decisão[cite: 13].
-* [cite_start]Implementação de APIs RESTful com foco em performance e segurança[cite: 15].
 
 <br>
 
