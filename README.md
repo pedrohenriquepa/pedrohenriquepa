@@ -41,10 +41,11 @@ Confira meus principais projetos e demonstrações técnicas:
 
 <br>
 
-### 📊 Minha jornada
+
+### 📊 Minha jornada (Últimos meses)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquepa&bg_color=0d1117&color=93E1FF&line=93E1FF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquepa&bg_color=0d1117&color=93E1FF&line=93E1FF&point=ffffff&area=true&hide_border=true&days=90"/>
 </p>
 
 <br>
