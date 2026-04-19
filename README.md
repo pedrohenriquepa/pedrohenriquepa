@@ -13,7 +13,7 @@
 <br>
 
 ### 💫 Sobre mim
-[cite_start]Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST[cite: 44]. [cite_start]Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional[cite: 48, 50, 68].
+Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST. Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional.
 
 ### 📂 Portfólio
 Confira meus principais projetos e demonstrações técnicas:
