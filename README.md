@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=header"/>
 
-<h1 align="center">Pedro Henrique Pereira Alves ✨</h1>
+<h1 align="center">Pedro Henrique Pereira Alves</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=93E1FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Especialista+Laravel;React+/+Next.js;Apaixonado+por+Tecnologia" />
@@ -79,8 +79,5 @@ Confira meus principais projetos e demonstrações técnicas:
 
 <br>
 
-<p align="center">
-  💜 Obrigado por visitar meu perfil
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=footer"/>
