@@ -1,132 +1,96 @@
-## # 👨‍💻 Pedro Alves 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=header"/>
 
-**`Desenvolvedor FullStack`**
+<h1 align="center">Pedro Henrique Pereira Alves ✨</h1>
 
-Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Minha abordagem foca em escrever código limpo, eficiente e escalável, independentemente da linguagem ou framework.
-Atualmente cursando **Sistemas de Informação**, combino minha base acadêmica com experiência prática no desenvolvimento de sistemas reais (ERP/CRM). Tenho facilidade em transitar entre **Back-end e Front-end**, sempre buscando a melhor ferramenta para cada desafio.
-<p align="left">
-   <a href="https://github.com/pedrohenriquepa?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/pedrohenriquepa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-</a>
-<a href="https://github.com/pedrohenriquepa?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/pedrohenriquepa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=93E1FF&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Especialista+Laravel;React+/+Next.js;Analista+de+Sistemas" />
 </p>
 
----
+<p align="center">
+  <b>Desenvolvendo soluções seguras, escaláveis e focadas na experiência do usuário 🚀</b>
+</p>
 
-### 🤖 Linguagens e Tecnologias
+<br>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+### 💫 Sobre mim
+Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST. Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional.
 
-<img 
-    align="left" 
-    alt="FIREBASE"
-    title="FIREBASE" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="ANDROID"
-    title="ANDROID" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="MSQL"
-    title="MSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### 📂 Portfólio
+Você pode conferir meus principais projetos e demonstrações técnicas no meu site pessoal:
+👉 **[pedrohenriquepa.github.io/portf-lio/](https://pedrohenriquepa.github.io/portf-lio/)**
 
-<br/>
-<br/>
+<br>
 
-### 📫 Vamos conversar?
+### 🧠 Tecnologias
 
-Estou sempre aberto a novas oportunidades e conexões.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="270px" align="right">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alve-s/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:pedro.p.alves7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs" height="38"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap" height="38"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" height="38"/>
+</p>
+
+<br>
+
+### ⚙️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="38"/>
+</p>
+
+<br>
+
+### 📊 Minha jornada
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=0d1117&color=93E1FF&line=93E1FF&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<br>
+
+### 📈 Conhecimentos Técnicos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-90%25-93E1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript%20%2F%20React-85%25-93E1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-80%25-93E1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-60%25-93E1FF?style=for-the-badge"/>
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" align="right">
+
+### ✨ Atualmente
+
+- 🚀 Desenvolvendo sistemas internos (CRM e ERP)
+- 🛠️ Criando dashboards e relatórios para tomada de decisão
+- 📚 Cursando Sistemas de Informação
+
+<br>
+
+### 🌐 Contato
+
+<p align="center">
+  <a href="https://pedrohenriquepa.github.io/portf-lio/">
+    <img src="https://img.shields.io/badge/Portfolio-93E1FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:pedro.p.alves7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5538988627049">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  💻 Transformando desafios em linhas de código.
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=footer"/>
