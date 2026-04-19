@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=header"/>
 
-<h1 align="center">Pedro Henrique Pereira Alves ✨</h1>
+<h1 align="center">Pedro Henrique Pereira Alves </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=93E1FF&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Especialista+Laravel;React+/+Next.js;Analista+de+Sistemas" />
@@ -57,16 +57,6 @@ Confira meus principais projetos e demonstrações técnicas:
   <img src="https://img.shields.io/badge/MySQL-80%25-93E1FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-75%25-93E1FF?style=for-the-badge"/>
 </p>
-
-<br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" align="right">
-
-### ✨ Atualmente
-
-- [cite_start]🚀 Desenvolvendo e mantendo sistemas internos (CRM e ERP) [cite: 50]
-- [cite_start]🛠️ Criando dashboards interativos e relatórios para apoio na tomada de decisão [cite: 51]
-- [cite_start]📚 Cursando Sistemas de Informação na Unimontes [cite: 68]
 
 <br>
 
