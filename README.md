@@ -13,10 +13,10 @@
 <br>
 
 ### 💫 Sobre mim
-Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST. Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional.
+[cite_start]Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST[cite: 44]. [cite_start]Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional[cite: 48, 50, 68].
 
 ### 📂 Portfólio
-Você pode conferir meus principais projetos e demonstrações técnicas no meu site pessoal:
+Confira meus principais projetos e demonstrações técnicas:
 👉 **[pedrohenriquepa.github.io/portf-lio/](https://pedrohenriquepa.github.io/portf-lio/)**
 
 <br>
@@ -44,7 +44,7 @@ Você pode conferir meus principais projetos e demonstrações técnicas no meu 
 ### 📊 Minha jornada
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=0d1117&color=93E1FF&line=93E1FF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquepa&bg_color=0d1117&color=93E1FF&line=93E1FF&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <br>
@@ -55,7 +55,7 @@ Você pode conferir meus principais projetos e demonstrações técnicas no meu 
   <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-90%25-93E1FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript%20%2F%20React-85%25-93E1FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-80%25-93E1FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-60%25-93E1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-75%25-93E1FF?style=for-the-badge"/>
 </p>
 
 <br>
@@ -64,9 +64,9 @@ Você pode conferir meus principais projetos e demonstrações técnicas no meu 
 
 ### ✨ Atualmente
 
-- 🚀 Desenvolvendo sistemas internos (CRM e ERP)
-- 🛠️ Criando dashboards e relatórios para tomada de decisão
-- 📚 Cursando Sistemas de Informação
+- [cite_start]🚀 Desenvolvendo e mantendo sistemas internos (CRM e ERP) [cite: 50]
+- [cite_start]🛠️ Criando dashboards interativos e relatórios para apoio na tomada de decisão [cite: 51]
+- [cite_start]📚 Cursando Sistemas de Informação na Unimontes [cite: 68]
 
 <br>
 
@@ -79,7 +79,7 @@ Você pode conferir meus principais projetos e demonstrações técnicas no meu 
   <a href="mailto:pedro.p.alves7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/pedrohenriquepa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/5538988627049">
