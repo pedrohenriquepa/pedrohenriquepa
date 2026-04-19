@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=header"/>
 
-<h1 align="center">Pedro Henrique Pereira Alves </h1>
+<h1 align="center">Pedro Henrique Pereira Alves ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=93E1FF&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Especialista+Laravel;React+/+Next.js;Analista+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=93E1FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Especialista+Laravel;React+/+Next.js;Apaixonado+por+Tecnologia" />
 </p>
 
 <p align="center">
-  <b>Desenvolvendo soluções seguras, escaláveis e focadas na experiência do usuário 🚀</b>
+  <b>Transformando ideias em código com criatividade e consistência 🚀</b>
 </p>
 
 <br>
 
 ### 💫 Sobre mim
-Sou Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de sistemas web e integração de APIs REST. Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e trabalho no desenvolvimento de sistemas ERP/CRM, focando na otimização de processos e eficiência operacional.
+[cite_start]Sou Desenvolvedor Full-Stack com experiência no desenvolvimento de sistemas web (CRM e ERP) e integração de APIs REST[cite: 6, 12, 15]. [cite_start]Atualmente, curso Bacharelado em Sistemas de Informação na Unimontes e foco na criação de soluções seguras e escaláveis[cite: 8, 30].
 
 ### 📂 Portfólio
 Confira meus principais projetos e demonstrações técnicas:
@@ -41,7 +41,6 @@ Confira meus principais projetos e demonstrações técnicas:
 
 <br>
 
-
 ### 📊 Minha jornada (Visão Mensal)
 
 <p align="center">
@@ -61,6 +60,16 @@ Confira meus principais projetos e demonstrações técnicas:
 
 <br>
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" align="right">
+
+### ✨ Atualmente
+
+* [cite_start]Desenvolvimento e manutenção de sistemas web internos (CRM e ERP)[cite: 12].
+* [cite_start]Criação de dashboards interativos e relatórios personalizados para suporte à decisão[cite: 13].
+* [cite_start]Implementação de APIs RESTful com foco em performance e segurança[cite: 15].
+
+<br>
+
 ### 🌐 Contato
 
 <p align="center">
@@ -70,7 +79,7 @@ Confira meus principais projetos e demonstrações técnicas:
   <a href="mailto:pedro.p.alves7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pedrohenriquepa">
+  <a href="https://www.linkedin.com/in/pedro-henrique-pereira-alves">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/5538988627049">
@@ -81,7 +90,7 @@ Confira meus principais projetos e demonstrações técnicas:
 <br>
 
 <p align="center">
-  💻 Transformando desafios em linhas de código.
+  💜 Obrigado por visitar meu perfil
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93E1FF&height=130&section=footer"/>
